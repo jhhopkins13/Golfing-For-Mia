@@ -1,0 +1,25 @@
+{
+    "name": "Golfing-for-Mia",
+    "version": "1.0.0",
+    "description": "A website for an annual golf scramble event",
+    "main": "index.js",
+    "scripts": {
+      "start": "react-scripts start",
+      "build": "react-scripts build",
+      "test": "react-scripts test",
+      "eject": "react-scripts eject"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/jhhopkins13/golf-scramble-website.git"
+    },
+    "author": "Your Name",
+    "license": "MIT",
+    "dependencies": {
+      "react": "^17.0.2",
+      "react-dom": "^17.0.2",
+      "react-scripts": "4.0.3",
+      "react-router-dom": "^5.2.0"
+    }
+  }
+  
